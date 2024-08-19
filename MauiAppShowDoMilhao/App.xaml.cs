@@ -516,195 +516,195 @@ namespace MauiAppShowDoMilhao
              new Pergunta
             {
                 Id = 1,
-                Enunciado = "",
+                Enunciado = "Qual é a maior ilha da Europa?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = true, Descricao = "GRÃ-BRETANHA" },
+                    new Alternativa { Correta = false, Descricao = "IRLANDA" },
+                    new Alternativa { Correta = false, Descricao = "ISLÂNDIA" },
+                    new Alternativa { Correta = false, Descricao = "SICÍLIA" },
                 }
 
             },
              new Pergunta
             {
                 Id = 2,
-                Enunciado = "",
+                Enunciado = "O filme “A noviça rebelde”,premiado com 5 Oscars, foi estrelado por:",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "JUDY GARLAND" },
+                    new Alternativa { Correta = false, Descricao = "SHIRLEY TEMPLE" },
+                    new Alternativa { Correta = true, Descricao = "JULIE ANDREWS" },
+                    new Alternativa { Correta = false, Descricao = "DORIS DAY" },
                 }
 
             },
              new Pergunta
             {
                 Id = 3,
-                Enunciado = "",
+                Enunciado = "Qual foi o primeiro presidente do Brasil eleito pelo povo?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "GETÚLIO VARGAS" },
+                    new Alternativa { Correta = true, Descricao = "PRUDENTE DE MORAES" },
+                    new Alternativa { Correta = false, Descricao = "WASHINGTON LUÍS" },
+                    new Alternativa { Correta = false, Descricao = "TANCREDO NEVES" },
                 }
 
             },
              new Pergunta
             {
                 Id = 4,
-                Enunciado = "",
+                Enunciado = "Como o rei francês Luis XVI e sua esposa Maria Antonieta morreram?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "ENFORCADOS" },
+                    new Alternativa { Correta = false, Descricao = "FUZILADOS" },
+                    new Alternativa { Correta = true, Descricao = "GUILHOTINADO" },
+                    new Alternativa { Correta = false, Descricao = "QUEIMADOS" },
                 }
 
             },
              new Pergunta
             {
                 Id = 5,
-                Enunciado = "",
+                Enunciado = "Como se chama o explorador de grutas e cavernas?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = true, Descricao = "ESPELEÓLOGO" },
+                    new Alternativa { Correta = false, Descricao = "AGROSTÓLOGO" },
+                    new Alternativa { Correta = false, Descricao = "PSICÓLOGO" },
+                    new Alternativa { Correta = false, Descricao = "CAMPANÓLOGO" },
                 }
 
             },
              new Pergunta
             {
                 Id = 6,
-                Enunciado = "",
+                Enunciado = "As Ilhas Malvinas também são chamadas de:",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "STANLEY" },
+                    new Alternativa { Correta = false, Descricao = "WEDELLS" },
+                    new Alternativa { Correta = false, Descricao = "MEDANOSA" },
+                    new Alternativa { Correta = true, Descricao = "FALKLAND" },
                 }
 
             },
              new Pergunta
             {
                 Id = 7,
-                Enunciado = "",
+                Enunciado = "Em que país Leonardo da Vinci viveu seus últimos dias?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "ESPANHA" },
+                    new Alternativa { Correta = false, Descricao = "HOLANDA" },
+                    new Alternativa { Correta = true, Descricao = "FRANÇA" },
+                    new Alternativa { Correta = false, Descricao = "ITÁLIA" },
                 }
 
             },
              new Pergunta
             {
                 Id = 8,
-                Enunciado = "",
+                Enunciado = "Em qual país está localizado o “Muro das lamentações”?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "ALEMANHA" },
+                    new Alternativa { Correta = false, Descricao = "BRASIL" },
+                    new Alternativa { Correta = false, Descricao = "VENEZUELA" },
+                    new Alternativa { Correta = true, Descricao = "ISRAEL" },
                 }
 
             },
              new Pergunta
             {
                 Id = 9,
-                Enunciado = "",
+                Enunciado = "Onde foi conduzida a vitória das forças aliadas na Segunda Guerra Mundial?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "CANNES" },
+                    new Alternativa { Correta = true, Descricao = "NORMANDIA" },
+                    new Alternativa { Correta = false, Descricao = "CAPRI" },
+                    new Alternativa { Correta = false, Descricao = "MARSELHA" },
                 }
 
             },
              new Pergunta
             {
                 Id = 10,
-                Enunciado = "",
+                Enunciado = "Qual presidente brasileiro instituiu o AI-5?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = true, Descricao = "COSTA E SILVA" },
+                    new Alternativa { Correta = false, Descricao = "ERNESTO GEISEL" },
+                    new Alternativa { Correta = false, Descricao = "JOÃO FIGUEIREDO" },
+                    new Alternativa { Correta = false, Descricao = "ITAMAR FRANCO" },
                 }
 
             },
              new Pergunta
             {
                 Id = 11,
-                Enunciado = "",
+                Enunciado = "O que significa literalmente Perestroika?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "CONVERSÃO" },
+                    new Alternativa { Correta = false, Descricao = "INVOLUÇÃO" },
+                    new Alternativa { Correta = true, Descricao = "REESTRUTURAÇÃO" },
+                    new Alternativa { Correta = false, Descricao = "REGRESSÃO" },
                 }
 
             },
              new Pergunta
             {
                 Id = 12,
-                Enunciado = "",
+                Enunciado = "Brahma é o deus de que religião?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = true, Descricao = "HINDUÍSMO" },
+                    new Alternativa { Correta = false, Descricao = "XINTOÍSMO" },
+                    new Alternativa { Correta = false, Descricao = "BUDISMO" },
+                    new Alternativa { Correta = false, Descricao = "ISLAMISMO" },
                 }
 
             },
              new Pergunta
             {
                 Id = 13,
-                Enunciado = "",
+                Enunciado = "Os nazistas foram julgados em:",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "BERLIM" },
+                    new Alternativa { Correta = true, Descricao = "NUREMBERG" },
+                    new Alternativa { Correta = false, Descricao = "MUNIQUE" },
+                    new Alternativa { Correta = false, Descricao = "PARIS" },
                 }
 
             },
              new Pergunta
             {
                 Id = 14,
-                Enunciado = "",
+                Enunciado = "Que conflito ideológico envolveu os EUA e a União Soviética?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = true, Descricao = "GUERRA FRIA" },
+                    new Alternativa { Correta = false, Descricao = "GUERRA DO VIETNÃ" },
+                    new Alternativa { Correta = false, Descricao = "GUERRA NAS ESTRELAS" },
+                    new Alternativa { Correta = false, Descricao = "GUERRA DA CORÉIA" },
                 }
 
             },
              new Pergunta
             {
                 Id = 15,
-                Enunciado = "",
+                Enunciado = "O trapézio é um músculo que está situado:",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "NO PESCOÇO" },
+                    new Alternativa { Correta = false, Descricao = "NO OMBRO" },
+                    new Alternativa { Correta = false, Descricao = "NA CABEÇA" },
+                    new Alternativa { Correta = true, Descricao = "NO BRAÇO" },
                 }
 
             },
@@ -774,6 +774,15 @@ namespace MauiAppShowDoMilhao
 
             },
         };
+
+        public static Pergunta getRandomPerguntaFacil()
+        {
+            Random r = new Random();
+
+            int sorteado = r.Next(1, 20);
+
+            return perguntas_faceis[sorteado];
+        }
 
 
 
