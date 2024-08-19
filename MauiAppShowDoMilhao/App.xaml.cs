@@ -711,65 +711,65 @@ namespace MauiAppShowDoMilhao
              new Pergunta
             {
                 Id = 16,
-                Enunciado = "",
+                Enunciado = "Quem escreveu o livro “A sangue frio” em 1966?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = true, Descricao = "TRUMAN CAPOTE" },
+                    new Alternativa { Correta = false, Descricao = "HENRY JAMES" },
+                    new Alternativa { Correta = false, Descricao = "JOHN STEINBECK" },
+                    new Alternativa { Correta = false, Descricao = "TONI MORRISON" },
                 }
 
             },
              new Pergunta
             {
                 Id = 17,
-                Enunciado = "",
+                Enunciado = "Quem escreveu “Ulisses” em 1922?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "ERNEST HEMINGWAY" },
+                    new Alternativa { Correta = false, Descricao = "MARCEL PROUST" },
+                    new Alternativa { Correta = false, Descricao = "T.S. ELLIOT" },
+                    new Alternativa { Correta = true, Descricao = "JAMES JOYCE" },
                 }
 
             },
              new Pergunta
             {
                 Id = 18,
-                Enunciado = "",
+                Enunciado = "Qual o símbolo químico do radônio?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "Rr" },
+                    new Alternativa { Correta = false, Descricao = "Rd" },
+                    new Alternativa { Correta = true, Descricao = "Rn" },
+                    new Alternativa { Correta = false, Descricao = "Ro" },
                 }
 
             },
              new Pergunta
             {
                 Id = 19,
-                Enunciado = "",
+                Enunciado = "O confucionismo é uma filosofia de qual nacionalidade?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "INDIANA" },
+                    new Alternativa { Correta = true, Descricao = "CHINESA" },
+                    new Alternativa { Correta = false, Descricao = "JAPONESA" },
+                    new Alternativa { Correta = false, Descricao = "COREANA" },
                 }
 
             },
              new Pergunta
             {
                 Id = 20,
-                Enunciado = "",
+                Enunciado = "A que país pertence a ilha de Terra Nova?",
                 Alternativas = new()
                 {
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
-                    new Alternativa { Correta = false, Descricao = "" },
+                    new Alternativa { Correta = false, Descricao = "ESTADOS UNIDOS" },
+                    new Alternativa { Correta = false, Descricao = "DINAMARCA" },
+                    new Alternativa { Correta = true, Descricao = "CANADÁ" },
+                    new Alternativa { Correta = false, Descricao = "FRANÇA" },
                 }
 
             },
