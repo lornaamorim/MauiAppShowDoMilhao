@@ -253,7 +253,7 @@ namespace MauiAppShowDoMilhao
         {
              new Pergunta
             {
-                Id = 1,
+                Id = 21,
                 Enunciado = "No filme, quem era parceiro de crimes da Bonnie?",
                 Alternativas = new()
                 {
@@ -266,7 +266,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 2,
+                Id = 22,
                 Enunciado = "Quando começou e terminou a Primeira Guerra Mundial?",
                 Alternativas = new()
                 {
@@ -279,7 +279,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 3,
+                Id = 23,
                 Enunciado = "Qual é a letra do alfabeto que simboliza o número dez em algarismo romano?",
                 Alternativas = new()
                 {
@@ -292,7 +292,7 @@ namespace MauiAppShowDoMilhao
             },
               new Pergunta
             {
-                Id = 4,
+                Id = 24,
                 Enunciado = "O que leva o sangue do coração para o corpo?",
                 Alternativas = new()
                 {
@@ -305,7 +305,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 5,
+                Id = 25,
                 Enunciado = "O “super bowl” faz parte de qual esporte?",
                 Alternativas = new()
                 {
@@ -318,7 +318,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 6,
+                Id = 26,
                 Enunciado = "A que categoria pertence o cavalo-marinho?",
                 Alternativas = new()
                 {
@@ -331,7 +331,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 7,
+                Id = 27,
                 Enunciado = "O FBI é a polícia federal de qual país?",
                 Alternativas = new()
                 {
@@ -344,7 +344,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 8,
+                Id = 28,
                 Enunciado = "Qual dessas cobras não é venenosa?",
                 Alternativas = new()
                 {
@@ -357,7 +357,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 9,
+                Id = 29,
                 Enunciado = "Qual é o dia da Padroeira do Brasil?",
                 Alternativas = new()
                 {
@@ -370,7 +370,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 10,
+                Id = 30,
                 Enunciado = "A cidade de Pompéia, que foi soterrada por um vulcão fica em qual desses países?",
                 Alternativas = new()
                 {
@@ -383,7 +383,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 11,
+                Id = 31,
                 Enunciado = "Como eram chamados os pilotos suicidas da Segunda Guerra?",
                 Alternativas = new()
                 {
@@ -396,7 +396,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 12,
+                Id = 32,
                 Enunciado = "Como é chamada a cantora que representa o papel principal em uma ópera?",
                 Alternativas = new()
                 {
@@ -409,7 +409,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 13,
+                Id = 33,
                 Enunciado = "Quantos quilates tem o ouro puro?",
                 Alternativas = new()
                 {
@@ -422,7 +422,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 14,
+                Id = 34,
                 Enunciado = "Como é chamada a doença que causa perda desigual da melanina?",
                 Alternativas = new()
                 {
@@ -435,7 +435,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 15,
+                Id = 35,
                 Enunciado = "Que planta era usada para fabricação de papel no antigo Egito?",
                 Alternativas = new()
                 {
@@ -448,7 +448,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 16,
+                Id = 36,
                 Enunciado = "Que país europeu tem como atração a tourada?",
                 Alternativas = new()
                 {
@@ -461,7 +461,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 17,
+                Id = 37,
                 Enunciado = "O que os filatelistas colecionam?",
                 Alternativas = new()
                 {
@@ -474,7 +474,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 18,
+                Id = 38,
                 Enunciado = "Em que cidade está situada a famosa Praça Vermelha?",
                 Alternativas = new()
                 {
@@ -487,7 +487,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 19,
+                Id = 39,
                 Enunciado = "Que animais são criados nas pocilgas?",
                 Alternativas = new()
                 {
@@ -500,7 +500,7 @@ namespace MauiAppShowDoMilhao
             },
                new Pergunta
             {
-                Id = 20,
+                Id = 40,
                 Enunciado = "Quem introduziu o futebol no Brasil?",
                 Alternativas = new()
                 {
@@ -516,7 +516,7 @@ namespace MauiAppShowDoMilhao
         {
              new Pergunta
             {
-                Id = 1,
+                Id = 41,
                 Enunciado = "Qual é a maior ilha da Europa?",
                 Alternativas = new()
                 {
@@ -529,7 +529,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 2,
+                Id = 42,
                 Enunciado = "O filme “A noviça rebelde”,premiado com 5 Oscars, foi estrelado por:",
                 Alternativas = new()
                 {
@@ -542,7 +542,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 3,
+                Id = 43,
                 Enunciado = "Qual foi o primeiro presidente do Brasil eleito pelo povo?",
                 Alternativas = new()
                 {
@@ -555,7 +555,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 4,
+                Id = 44,
                 Enunciado = "Como o rei francês Luis XVI e sua esposa Maria Antonieta morreram?",
                 Alternativas = new()
                 {
@@ -568,7 +568,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 5,
+                Id = 45,
                 Enunciado = "Como se chama o explorador de grutas e cavernas?",
                 Alternativas = new()
                 {
@@ -581,7 +581,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 6,
+                Id = 46,
                 Enunciado = "As Ilhas Malvinas também são chamadas de:",
                 Alternativas = new()
                 {
@@ -594,7 +594,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 7,
+                Id = 47,
                 Enunciado = "Em que país Leonardo da Vinci viveu seus últimos dias?",
                 Alternativas = new()
                 {
@@ -607,7 +607,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 8,
+                Id = 48,
                 Enunciado = "Em qual país está localizado o “Muro das lamentações”?",
                 Alternativas = new()
                 {
@@ -620,7 +620,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 9,
+                Id = 49,
                 Enunciado = "Onde foi conduzida a vitória das forças aliadas na Segunda Guerra Mundial?",
                 Alternativas = new()
                 {
@@ -633,7 +633,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 10,
+                Id = 50,
                 Enunciado = "Qual presidente brasileiro instituiu o AI-5?",
                 Alternativas = new()
                 {
@@ -646,7 +646,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 11,
+                Id = 51,
                 Enunciado = "O que significa literalmente Perestroika?",
                 Alternativas = new()
                 {
@@ -659,7 +659,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 12,
+                Id = 52,
                 Enunciado = "Brahma é o deus de que religião?",
                 Alternativas = new()
                 {
@@ -672,7 +672,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 13,
+                Id = 53,
                 Enunciado = "Os nazistas foram julgados em:",
                 Alternativas = new()
                 {
@@ -685,7 +685,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 14,
+                Id = 54,
                 Enunciado = "Que conflito ideológico envolveu os EUA e a União Soviética?",
                 Alternativas = new()
                 {
@@ -698,7 +698,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 15,
+                Id = 55,
                 Enunciado = "O trapézio é um músculo que está situado:",
                 Alternativas = new()
                 {
@@ -711,7 +711,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 16,
+                Id = 56,
                 Enunciado = "Quem escreveu o livro “A sangue frio” em 1966?",
                 Alternativas = new()
                 {
@@ -724,7 +724,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 17,
+                Id = 57,
                 Enunciado = "Quem escreveu “Ulisses” em 1922?",
                 Alternativas = new()
                 {
@@ -737,7 +737,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 18,
+                Id = 58,
                 Enunciado = "Qual o símbolo químico do radônio?",
                 Alternativas = new()
                 {
@@ -750,7 +750,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 19,
+                Id =59,
                 Enunciado = "O confucionismo é uma filosofia de qual nacionalidade?",
                 Alternativas = new()
                 {
@@ -763,7 +763,7 @@ namespace MauiAppShowDoMilhao
             },
              new Pergunta
             {
-                Id = 20,
+                Id = 60,
                 Enunciado = "A que país pertence a ilha de Terra Nova?",
                 Alternativas = new()
                 {
@@ -775,31 +775,84 @@ namespace MauiAppShowDoMilhao
 
             },
         };
+        static List<Pergunta> perguntas_finais = new();
+        static List<Pergunta> perguntas_sorteadas = new();
 
         public static Pergunta getRandomPerguntaFacil()
         {
             Random r = new Random();
+            Pergunta pergunta_sorteada;
 
-            int sorteado = r.Next(1, perguntas_faceis.Count);
-            return perguntas_faceis[sorteado];
+            while (true)
+            {
+                int sorteado = r.Next(1, 20);
+                pergunta_sorteada = perguntas_faceis[sorteado];
+
+                if (!perguntas_sorteadas.Contains(pergunta_sorteada))
+                {
+                    perguntas_sorteadas.Add(pergunta_sorteada);
+                    break;
+                }
+            }
+                return pergunta_sorteada;
         }
 
         public static Pergunta getRandomPerguntaMedia()
         {
             Random r = new Random();
+            Pergunta pergunta_sorteada;
 
-            int sorteado = r.Next(1, perguntas_medias.Count);
-            return perguntas_medias[sorteado];
+            while (true)
+            {
+                int sorteado = r.Next(21, 40);
+                pergunta_sorteada = perguntas_medias[sorteado];
+
+                if (!perguntas_sorteadas.Contains(pergunta_sorteada))
+                {
+                    perguntas_sorteadas.Add(pergunta_sorteada);
+                    break;
+                }
+            }
+            return pergunta_sorteada;
         }
 
         public static Pergunta getRandomPerguntaDificil()
         {
             Random r = new Random();
+            Pergunta pergunta_sorteada;
 
-            int sorteado = r.Next(1, perguntas_dificeis.Count);
-            return perguntas_dificeis[sorteado];
+            while (true)
+            {
+                int sorteado = r.Next(41, 60);
+                pergunta_sorteada = perguntas_dificeis[sorteado];
+
+                if (!perguntas_sorteadas.Contains(pergunta_sorteada))
+                {
+                    perguntas_sorteadas.Add(pergunta_sorteada);
+                    break;
+                }
+            }
+            return pergunta_sorteada;
         }
 
+        public static Pergunta getRandomPerguntaFinal()
+        {
+            Random r = new Random();
+            Pergunta pergunta_sorteada;
+
+            while (true)
+            {
+                int sorteado = r.Next(61, 70);
+                pergunta_sorteada = perguntas_finais[sorteado];
+
+                if (!perguntas_sorteadas.Contains(pergunta_sorteada))
+                {
+                    perguntas_sorteadas.Add(pergunta_sorteada);
+                    break;
+                }
+            }
+            return pergunta_sorteada;
+        }
 
         public App()
         {
